@@ -9,6 +9,6 @@ To implement in another project - Shader code is written in shader.txt, simply c
 
 # Demo Images: 
 
-![ezgif-6-a00f08db5c1f](https://user-images.githubusercontent.com/54542639/117222575-97616280-adc0-11eb-8e2a-46a8b36dc0cc.gif)
-![Capture](https://user-images.githubusercontent.com/54542639/117222243-e22eaa80-adbf-11eb-8682-df2c90643a2e.PNG)
 
+![Capture](https://user-images.githubusercontent.com/54542639/117222243-e22eaa80-adbf-11eb-8682-df2c90643a2e.PNG)
+![ezgif-6-a00f08db5c1f](https://user-images.githubusercontent.com/54542639/117222575-97616280-adc0-11eb-8e2a-46a8b36dc0cc.gif)
